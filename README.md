@@ -3,7 +3,7 @@
 
 
 
-### [我的小店](https://github.com/Youngzhuzhu/site/myshop/index.html)
+### [我的小店](https://youngzhuzhu.github.io/site/myshop/index.html)
 
 
-### [评论点赞](https://github.com/Youngzhuzhu/site/moments/index.html)
+### [评论点赞](https://youngzhuzhu.github.io/site/moments/index.html)
