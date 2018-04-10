@@ -1,0 +1,128 @@
+* {
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	height: 160px;
+	background: orange;
+}
+header .logo {
+	float: left;
+	width: 50%;
+}
+header .logo img {
+	display: block;
+	margin: 20px;
+	height: 120px;
+	float: left;
+}
+header .logo p {
+	float: left;
+	margin-top: 30px;
+	font-size: 30px;
+	letter-spacing: 20px;
+	font-family: serif;
+}
+header nav {
+	float: right;
+	width: 50%;
+}
+header nav ul {
+	height: 100px;
+	line-height: 100px;
+	padding-left: 0px;
+}
+header nav ul li {
+	list-style-type: none;
+	color: red;
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+	float: left;
+}
+header nav ul li:nth-of-type(4) {
+	width: 30%;
+	font-size: 22px;
+}
+header nav ul li a {
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	color: red;
+}
+header nav ul li a:hover,header nav ul li a:focus {
+	background: white;
+}
+header nav ul li:nth-of-type(1) span::before {
+	content: url(../img/order.png);
+}
+header nav ul li:nth-of-type(2) span::before {
+	content: url(../img/about.png);
+}
+header nav ul li:nth-of-type(3) span::before {
+	content: url(../img/honor.png);
+}
+header nav ul li .white {
+	background: white;
+}
+/*footer*/
+footer {
+	height: 300px;
+	background: black;
+	color: white;
+}
+footer .detail {
+	padding: 20px 0;
+}
+footer .detail .hours {
+	float: left;
+	width: 33%;
+	padding: 0 40px;
+}
+footer .detail .address {
+	width: 33%;
+	padding: 0 40px;
+	float: left;
+}
+footer .detail .address .remark {
+	color: green;
+	font-size: 12px;
+}
+footer .detail .slogan {
+	float: left;
+	width: 33%;
+	padding: 0 40px;
+	font-style: italic;
+}
+footer .trademark {
+	clear: both;
+	text-align: center;
+	padding-top: 20px;
+}
+.menu-box {
+	width: 200px;
+	height: 200px;
+	margin: 0 15px;
+	display: inline-block;
+	position: relative;
+}
+.menu-img {
+	width: 200px;
+	height: 200px;
+}
+.menu-span {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 200px;
+	color: white;
+	font-weight: bolder;
+	text-transform: uppercase;
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	padding: 5px 0;
+}

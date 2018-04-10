@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1, 
+        "short_name": "L", 
+        "name": "Lunch", 
+        "special_instructions": "Sunday-Friday 11:15am-3:00pm. Served with your choice of rice (Vegetable Fried RIce, Steamed Rice, Brown Rice), AND EITHER soup (Hot & Sour, Wonton, Vegetable, Egg Drop, Chicken Corn Soup) OR veggie egg roll. $1.00 extra to have both soup and egg roll.", 
+        "url": "https://www.davidchuschinabistro.com/categories/L.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 2, 
+        "short_name": "A", 
+        "name": "Soup", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/A.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 3, 
+        "short_name": "B", 
+        "name": "Appetizers", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/B.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 4, 
+        "short_name": "SP", 
+        "name": "Chef's Recommendations", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/SP.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 5, 
+        "short_name": "C", 
+        "name": "Chicken", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/C.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 6, 
+        "short_name": "F", 
+        "name": "Beef", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/F.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 7, 
+        "short_name": "V", 
+        "name": "Veal", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/V.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 8, 
+        "short_name": "DK", 
+        "name": "Duck", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/DK.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 9, 
+        "short_name": "VG", 
+        "name": "Vegetables", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/VG.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 10, 
+        "short_name": "CU", 
+        "name": "Curry", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/CU.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 11, 
+        "short_name": "NL", 
+        "name": "Noodles (Lo Mein)", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/NL.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 12, 
+        "short_name": "NF", 
+        "name": "Mei Fan (Very Fine Noodles)", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/NF.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 13, 
+        "short_name": "PF", 
+        "name": "Pan Fried Noodles", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/PF.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 14, 
+        "short_name": "FR", 
+        "name": "Fried Rice", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/FR.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 15, 
+        "short_name": "CM", 
+        "name": "Chow Mein", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/CM.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 16, 
+        "short_name": "FY", 
+        "name": "Egg Foo Young", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/FY.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 17, 
+        "short_name": "SO", 
+        "name": "Side Orders", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/SO.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 18, 
+        "short_name": "DS", 
+        "name": "Desserts", 
+        "special_instructions": "", 
+        "url": "https://www.davidchuschinabistro.com/categories/DS.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 19, 
+        "short_name": "D", 
+        "name": "Dinner Combo", 
+        "special_instructions": "Served with your choice of rice (Vegetable Fried RIce, Steamed Rice, Brown Rice), AND EITHER soup (Hot & Sour, Wonton, Vegetable, Egg Drop, Chicken Corn Soup) OR veggie egg roll.", 
+        "url": "https://www.davidchuschinabistro.com/categories/D.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }, 
+    {
+        "id": 20, 
+        "short_name": "SR", 
+        "name": "Sushi Menu", 
+        "special_instructions": "Contains raw ingredients. Consuming raw or undercooked meat, poultry, or seafood may increase your risk of food borne illness.", 
+        "url": "https://www.davidchuschinabistro.com/categories/SR.json",
+        "image": "https://www.davidchuschinabistro.com/images/L16.jpg"
+    }
+]
