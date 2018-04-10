@@ -16,7 +16,7 @@ function requestFood() {
 			showInView(response);
 		}
 	}
-	request.open("GET","data/foodList.json",true);
+	request.open("GET","data/foodlist.json",true);
 	request.send();
 }
 
